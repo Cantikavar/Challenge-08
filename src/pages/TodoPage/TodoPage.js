@@ -54,7 +54,7 @@ export const TodoPage = () => {
 
   return (
     <div className="todo-page">
-      <h2>TODO LIST</h2>
+      <h2>TODO GOOO!</h2>
       {/* FORM */}
       <TodoForm onSubmitTodo={handleAddTodo} />
       {/* TODO LIST */}
